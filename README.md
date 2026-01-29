@@ -1,5 +1,5 @@
 # 💫 About Me:
-👾 Computer Science Engineering Grad (with hours of coffee and cups of code,  wait what ? ) <br>🤓 I'm currently working on new projects, tools and framework.<br>🕵️ I'm looking to collaborate on original and innovative ideas, well cause its fun.<br>🤝 I'm looking for help with getting gigs for freelancing. (well coz KA-CHING 💸)
+👾 Computer Science Engineering Grad (with hours of coffee and cups of code,  wait what ? ) <br>🤓 I'm currently working on new projects, tools and framework.<br>👀 I'm looking to collaborate on original and innovative ideas, well cause its fun.<br>🤝 I'm looking for help with getting gigs for freelancing. (well coz KA-CHING 💸)
 
 
 # 💻 Tech Stack:
